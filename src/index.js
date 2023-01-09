@@ -12,6 +12,7 @@ ReactDOM.render(
         <Icon
           type="info-circle"
           style={{ fontSize: "16px", color: "#08c", margin: 13 }}
+          theme="filled"
         />
       </Tooltip>
     </Row>
